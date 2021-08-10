@@ -1,0 +1,16 @@
+name: TestCode5
+main: LunarMoon72\TestCode5\Main
+api: 3.21.1
+mcpe-protocal: 448
+version: 0.0.1
+
+commands:
+  test5:
+  description: This is a test
+  aliases: test5
+  permission: testcode5.cmd
+  
+permissions:
+  testcode5.cmd:
+   description: This is perm
+   default: op

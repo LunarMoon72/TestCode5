@@ -5,6 +5,7 @@ namespace LunarMoon72\TestCode5;
 use pocketmine\plugin\PluginBase;
 
 use pocketmine\Player;
+use pocketmine\Item;
 
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;

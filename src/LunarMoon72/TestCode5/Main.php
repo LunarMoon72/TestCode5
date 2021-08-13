@@ -1,6 +1,6 @@
 <?php
 
-namespace TestCode5;
+namespace LunarMoon72\TestCode5;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
